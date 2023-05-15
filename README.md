@@ -6,11 +6,11 @@
 ![GitHub issues](https://img.shields.io/github/issues/enso-ui/themes.svg)
 ![npm version](https://img.shields.io/npm/v/@enso-ui/themes.svg)
 
-Enso UI Themes
+Liberu UI Themes
 
 ## Usage
 
-All components can be used outside of the Enso ecosystem.
+All components can be used outside of the Liberu ecosystem.
 
 ### Demo
 
@@ -24,7 +24,7 @@ Be sure to check out the full documentation for this package available at [docs.
 
 are welcome. Pull requests are great, but issues are good too.
 
-Thank you to all the people who already contributed to Enso!
+Thank you to all the people who already contributed to Liberu!
 
 ## License
 
