@@ -1,10 +1,10 @@
 # Themes
 
-![NPM License](https://img.shields.io/npm/l/@enso-ui/themes.svg)
-![npm download](https://img.shields.io/npm/dm/@enso-ui/themes.svg)
-![GitHub top language](https://img.shields.io/github/languages/top/enso-ui/themes.svg)
-![GitHub issues](https://img.shields.io/github/issues/enso-ui/themes.svg)
-![npm version](https://img.shields.io/npm/v/@enso-ui/themes.svg)
+![NPM License](https://img.shields.io/npm/l/@liberu-ui/themes.svg)
+![npm download](https://img.shields.io/npm/dm/@liberu-ui/themes.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/liberu-ui/themes.svg)
+![GitHub issues](https://img.shields.io/github/issues/liberu-ui/themes.svg)
+![npm version](https://img.shields.io/npm/v/@liberu-ui/themes.svg)
 
 Liberu UI Themes
 

@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/enso-ui/themes.git"
+    "url": "git+https://github.com/liberu-ui/themes.git"
   },
   "keywords": [
     "themes",
@@ -17,9 +17,9 @@
   "author": "Adrian Ocneanu <aocneanu@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/enso-ui/themes/issues"
+    "url": "https://github.com/liberu-ui/themes/issues"
   },
-  "homepage": "https://github.com/enso-ui/themes#readme",
+  "homepage": "https://github.com/liberu-ui/themes#readme",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.2",
     "@fortawesome/free-solid-svg-icons": "^5.11.2",
