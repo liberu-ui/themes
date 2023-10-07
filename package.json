@@ -2,7 +2,7 @@
   "name": "@liberu-ui/themes",
   "version": "3.0.19",
   "description": "Enso UI Themes",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
